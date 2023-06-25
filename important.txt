@@ -1,0 +1,19 @@
+install XAMPP in C DRIVE
+
+
+save the project as PGLife
+path :  C:\xampp\htdocs
+
+
+to open phpmyadmin, click on ADMIN adjacent to mysql
+create database, tables and insert values using the code written in the notepad "phpmyadmin create pglife database"
+ 
+
+
+to run the project
+
+open XAMPP CONTROL PANEL
+START apache, mysql
+
+open browser and enter the url
+URL "http://127.0.0.1/pglife/"
